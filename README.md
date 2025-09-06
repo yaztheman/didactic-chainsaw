@@ -93,3 +93,6 @@ Project description.
 
 ## Update 3
 - Improvement made on 2025-09-04
+
+## Update 6
+- Improvement made on 2025-09-07
