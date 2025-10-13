@@ -75,3 +75,6 @@ Project description.
 <!-- Update 81 -->
 
 <!-- Update 83 -->
+
+## Update 84
+- Improvement made on 2025-10-14
